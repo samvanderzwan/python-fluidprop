@@ -66,6 +66,6 @@ setup(
         "thermodynamic",
     ],
     python_requires=">=3.9",
-    install_requires=["CoolProp~=6.6", "numpy~=1.25"],
+    install_requires=["CoolProp~=6.6", "numpy~=2.1.0"],
     extras_require={},
 )
